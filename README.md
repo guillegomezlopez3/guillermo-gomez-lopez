@@ -6,7 +6,7 @@ Me especializo en **backend con Java y Spring Boot**: arquitectura por capas, AP
 
 Busco incorporarme a un equipo tecnológico donde seguir creciendo en backend Java, microservicios y entornos cloud.
 
-📍 Alicante, España &nbsp;·&nbsp; 📧 gomezlopezguille@gmail.com &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/guillermo-gomez-lopez-84770b179/)
+📍 Madrid, España &nbsp;·&nbsp; 📧 gomezlopezguille@gmail.com &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/guillermo-gomez-lopez-84770b179/)
 
 ---
 
@@ -109,7 +109,7 @@ Prácticas del primer año de DAM orientadas a desarrollo web y posicionamiento.
 ## 🎓 Formación
 
 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**  
-FEMPA — Alicante · 2023 – 2025
+FEMPA — Alicante · 2024 – 2026
 
 Programación orientada a objetos · Java · Bases de datos · Desarrollo web · Acceso a datos · Interfaces · Servicios · Aplicaciones móviles · Control de versiones · Documentación técnica
 
