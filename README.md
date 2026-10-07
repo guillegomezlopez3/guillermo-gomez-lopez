@@ -143,4 +143,4 @@ Programación orientada a objetos · Java · Bases de datos · Desarrollo web ·
 
 ---
 
-*Desarrollador Java Junior · Alicante, España · Disponibilidad inmediata · Presencial, híbrido o remoto*
+*Desarrollador Java Junior · Madrid, España · Disponibilidad inmediata · Presencial, híbrido o remoto*
